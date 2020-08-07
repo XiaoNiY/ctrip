@@ -1,0 +1,2196 @@
+		body{
+			margin: 0;
+			text-decoration:none;
+			padding: 0px;
+		}
+		div ul{
+			display: inline;
+			position: absolute;
+			margin-top: 8px;
+		}
+		li{
+			display: inline;
+		}
+		.Head{
+			width: 100%;
+			height: 35px;
+			background-color: #F4F4F4;
+		}
+		.dome1{
+			margin-left: 176px;
+			width: 77%;
+			height: 35px;
+		}
+		.slogan{
+			font-size: 11px;
+			color: #666;
+			display: inline-block;
+			margin: 10px 0 0 14px;
+			margin-left: 56px;
+		}
+		.font{
+			margin-left: 4px;
+			font-size: 11px;
+			position: absolute;
+			margin-top: 2px;
+		}
+		.img{
+		position: absolute;
+			margin-left: 60px;
+			margin-top: -3px
+		}
+		.dome3:hover .dome2{
+			display: initial;
+			position: absolute;
+			margin-top: 33px;
+			margin-left: -1px;
+			width: 550px;
+			height: 290px;
+			border: 1px solid #dfe2e2;
+			background-color: white;
+			z-index: 9999;
+		}
+		.dome3{
+			width: 105px;
+			height: 33px;
+			margin-top: -8px;
+			margin-left: -23px;
+		}
+		.dome3 .dome2{
+			display: none;
+		}
+		.text{
+			position: absolute;
+			margin-top: 8px;
+			margin-left: 10px;
+		}
+		.dome3:hover{
+			background-color: white;
+			border: 1px solid #dfe2e2;
+		}
+		.Disorder{
+			margin-left: 300px;
+			margin-top: 5px;
+		}
+		.HeadFont{
+			color: #0B6AD0;
+			font-size: 12px;
+		}
+		.HeadFont1{
+			margin-left: 30px;
+			font-size: 12px;
+			color: #666;
+		}
+		.HeadFont2{
+			margin-left: 9px;
+			font-size: 12px;
+			color: #666;
+		}
+		.HeadFont3{
+			margin-left: 23px;
+			margin-top: 8px;
+			position: absolute;
+		}
+		.HeadFont4{
+			position: absolute;
+			margin-left: 22px;
+			margin-top: 8px;
+		}
+		.HeadFont5{
+			margin-left: 225px;
+		}
+		.picture{
+			position: absolute;
+			width: 10px;
+			height: 16px;
+			margin-left: 12px;
+			margin-top: 6px;
+		}
+		.picture1{
+			position: absolute;
+			margin-left: 14px;
+			margin-top: 4px;
+		}
+		.picture2{
+			position: absolute;
+			width: 10px;
+			height: 16px;
+			margin-left: 5px;
+			margin-top: 6px;
+		}
+		.picture3{
+			width: 11px;
+			position: absolute;
+			margin-left: 5px;
+			margin-top: 6px;
+		}
+		.dome4{
+		position: absolute;
+			margin-left: 6px;
+			position: absolute;
+			width: 68px;
+			background-color: #d6e2f2;
+			margin-top: 6px;
+			border-bottom-left-radius: 10px;
+			border-top-left-radius: 10px;
+		}
+		.dome5{
+		border-bottom-right-radius: 50%;
+			position: absolute;
+			width: 15px;
+			background-color: #d6e2f2;
+			margin-left: 74px;
+			margin-top: 6px;
+			border-top-right-radius: 50%;
+		}
+		.picture4{
+		margin-left: 102px;
+			margin-top: 11px;
+		}
+		.picture5{
+		width: 15px;
+			margin-top: 12px;
+			margin-left: 9px;
+		}
+		.picture6{
+			margin-left: 9px;
+			width: 19px;
+			position: absolute;
+			margin-top: 9px;
+		}
+		.picture7{
+			margin-left: 110px;
+		}
+		.picture8{
+			position: absolute;
+			margin-left: 77px;
+			margin-top: 11px;
+		}
+		.picture9{
+			margin-left: 209px;
+		}
+		.picture10{
+			margin-left: 13px;
+			margin-top: 11px;
+		}
+		.Head1{
+			width: 100%;
+			height: 80px;
+		}
+		.Head1Dome{
+			margin-left: 210px;
+			margin-top: 23px;
+			position: absolute;
+		}
+		.Headpicture{
+			width: 200px;
+		}
+		.Head1Dome1{
+			border: 1px solid #A4CBFF;
+			border-radius: 4px;
+			position: absolute;
+			margin-top: 26px;
+			margin-left: 449px;
+			width: 345px;
+			background-color: white;
+			height: 28px
+		}
+		.enter{
+			width: 298px;
+			border-radius: 4px 0px 0px 4px;
+			height: 26px;
+			border: 1px solid #A4CBFF;
+			margin-left: -1px;
+			margin-top: -1px;
+		}
+		.search{
+			border: 1px solid #A4CBFF;
+			background-color: #A4CBFF;
+			width: 46px;
+			height: 29px;
+			margin-top: -1px;
+			position: absolute;
+			border-radius: 0px 4px 4px 0px;
+		}
+		input::-ms-input-placeholder{
+			font-size: 12px;
+		}
+		input::-webkit-input-placeholder{
+			font-size: 12px;
+		}
+		.Head1Dome2{
+			margin-top: -62px;
+			width: 213px;
+			height: 44px;
+			position: absolute;
+			margin-left: 1080px;
+		}
+		.table{
+			display: block;
+			font-size: 12px;
+			line-height: 20px;
+			color: #666;
+		}
+		.Head1picture{
+			position: absolute;
+			margin-left: 200px;
+			margin-top: 23px;
+		}
+		ul:hover .table1{
+			display: initial;	
+			z-index: 99999;
+			margin-left: 5px;
+		}
+		ul .table1{
+			display: none;
+		}
+		ul .table4{
+			display: none;
+		}
+		.table2{
+			margin-left: 115px;
+		}
+		.table3{
+			margin-left: 70px;
+		}
+		.Head1Dome2:hover{
+			position:absolute;
+			height: 100px;
+			background-color: white;
+			border: 1px solid #9B9B9B;
+		}
+		ul:hover .table4{
+			margin-left: 40px;
+			z-index: 999;
+		}
+		.Head2{
+			z-index: -9999;
+			width: 100%;
+			height: 40px;
+			background-color: #2577E3;
+			position: absolute;
+		}
+		.Head2Font{
+			font-size: 15px;
+			color: white;
+		}
+		.Head2picture{
+			width: 9px;
+		}
+
+		.Head2Displacement{
+			margin-left: 239px;
+		}
+		.Head2picture1{
+			position: absolute;
+			width: 40px;
+			margin-top: -15px;
+			margin-left: -23px;
+		}
+		.Head2Dome{
+			background-color: #0A56BB;
+			width: 51px;
+			position: absolute;
+			margin-left: 174px;
+			height: 40px;
+			margin-top: -8px;
+		}
+		.Head2Displacement1{
+			position: absolute;
+			margin-left: 11px;
+			margin-top:9px;
+		}
+		.Displacement{
+			margin-left: -5px;
+		}
+		.country{
+			width: 550px;
+			height: 290px
+		}
+		.countryfont{
+			margin-top: 2px;
+			font-size: 12px;
+			color: #9B9B9B;
+			position: absolute;
+			margin-left: 5px;
+		}
+		.countrypicture{
+			width: 20px;
+			margin-left: 9px;
+		}
+		td{
+			width: 129px;
+		}
+		td:hover{
+			background-color: #F4F4F4
+		}
+		a{
+			text-decoration: none;
+		}
+		.linkStyle:hover span{
+			color: #0B6AD0;
+		}
+		.dome6:hover .dome7{
+			border: 1px solid #BEBEBE;
+			margin-left: -1px;
+			display: initial;
+			position: absolute;
+			background-color: white;
+			width: 56px;
+			margin-top: 33px;
+		}
+		.dome6 .dome7{
+			display: none;
+			font-size: 12px;
+		}
+		.hide{
+			line-height: 30px;
+			margin-left: -17px;
+			display: block;
+		}
+		.divStyle{
+			height: 33px;
+			margin-left: 210px;
+			position: absolute;
+			margin-top: -26px;
+			width: 96px;
+		}
+		.divStyle:hover{
+			background-color: white;
+			border: 1px solid #BEBEBE;
+		}
+		.linkStyle1{
+			color: #666
+		}
+		.divStyle1{
+			width: 96px;
+			margin-left: -23px;
+		}
+		.fonthide{
+			margin-left: 22px;
+		}
+		.divStyle1:hover{
+			background-color: #F4F4F4;
+			color: #287BD4;
+		}
+		.dome8:hover .dome9{
+		border: 1px solid #BEBEBE;
+			margin-left: -1px;
+			display: initial;
+			position: absolute;
+			background-color: white;
+			width: 80px;
+			margin-top: 32px;
+		}
+		.dome8 .dome9{
+			display: none;
+			font-size: 12px;
+			line-height: 28px;
+		}
+		.divStyle2{
+			width: 97px;
+			position: absolute;
+			margin-left: 308px;
+			margin-top: -26px;
+			height: 33px;
+		}
+		.divStyle2:hover{
+			background-color: white;
+			border: 1px solid #BEBEBE;
+		}
+		.divStyle3{
+			margin-left: -40px;
+			width: 118px;
+		}
+		.divStyle3:hover{
+			background-color: #F4F4F4;
+			color: #287BD4;
+		}
+		.fonthide1{
+			margin-left: 22px
+		}
+		.divStyle4{
+			position: absolute;
+			width: 102px;
+			margin-left: 482px;
+			height: 33px;
+			margin-top: -26px;
+		}
+		.dome10:hover .dome11{
+		border: 1px solid #BEBEBE;
+			display: initial;
+			position: absolute;
+			background-color: white;
+			width: 61px;
+			margin-top: 33px;
+			z-index: 9999;
+
+		}
+		.dome10 .dome11{
+			display: none;
+			font-size: 12px;
+			line-height: 28px;
+		}
+		.divStyle4:hover{
+			background-color: #2577E3;
+			border: 1px solid #BEBEBE;
+		}
+		.divStyle5{
+			margin-left: -40px;
+			width: 101px;
+			margin-top: -1px;
+			height: 28px;
+		}
+		.divStyle5:hover{
+			background-color: #F4F4F4;
+			color: #287BD4;
+		}
+		.divStyle6{
+			border-bottom: 1px solid white;
+			margin-left: 585px;
+			position: absolute;
+			width: 33px;
+			margin-top: -27px;
+			height: 33px;
+		}
+		.dome13:hover .dome14{
+			display: initial;
+			position: absolute;
+		}
+		.dome13 .dome14{
+			display: none;
+
+		}
+		.dome14{
+			width: 137px;
+			margin-left: -105px;
+			display: initial;
+			position: absolute;
+			border: 1px solid #BEBEBE;
+			margin-top: 34px;
+			z-index: 9999;
+			height: 180px;
+			font-size: 12px;
+			color: #9B9B9B;
+			background-color: white;
+		}
+		.dome15{
+			height: 29px;
+			margin-top: 9px;
+			background-color: #97bbf7;
+		}
+		.fonthide2{
+			font-size: 13px;
+			margin-left: 21px;
+			margin-top: 2px;
+			position: absolute;
+			color: white;
+		}
+		.divStyle6:hover{
+			border: 1px solid #BEBEBE;
+			border-bottom: white;
+			background-color: white;
+			z-index: 9999
+		}
+		.hrstyle{
+			width: 36px;
+			border-bottom: 1px solid white;
+			margin-top: -153px;
+			position: absolute;
+			margin-left: 103px;
+		}
+		.dome16:hover .dome17{
+			display: initial;
+			position: absolute;
+			z-index: 999
+		}
+		.dome16 .dome17{
+			display: none;
+			border: 1px solid #BEBEBE;
+			width: 137px;
+			margin-top: 33px;
+			margin-left: -103px;
+			height: 180px;
+			z-index: 9999;
+			background-color: white
+		}
+		.divStyle7{
+			position: absolute;
+			width: 35px;
+			margin-left: 620px;
+			margin-top: -26px;
+			height: 33px;
+			z-index: 9999;
+		}
+		.fonthide3{
+			margin-left: 6px;
+			font-size: 12px;
+		}
+		.fonthide4{
+			margin-left: 16px;
+			font-size: 12px;
+		}
+		.hrstyle1{
+			width: 36px;
+			border-bottom: 1px solid white;
+			margin-top: -170px;
+			position: absolute;
+			margin-left: 101px;
+		}
+		.fonthide5{
+			color: #FF6600
+		}
+		.divStyle7:hover{
+			background-color: white;
+		}
+		.Head1Font{
+			margin-left: -30px;
+		}
+		.Head2Dome1:hover .Head2Dome2{
+			display: initial;
+			position: absolute;
+		}
+		.Head2Dome1 .Head2Dome2{
+			display: none;
+		}
+		.Head2Dome2{
+			border-left: 1px solid #6193d7;
+			margin-top: 32px;
+			width: 1086px;
+			height: 36px;
+			margin-left: -129px;
+			font-size: 14px;
+			border-bottom: 1px solid #6193d7;
+			border-right: 1px solid #6193d7;
+		}
+		.Head2Dome3{
+			margin-left: 15px;
+		}
+		.Head2Dome4{
+			margin-top: 2px;
+			position: absolute;
+			border-left: 1px solid #66666669;
+			margin-left: 5px;
+			height: 17px;
+		}
+		.Head2picture2{
+			height: 21px;
+			margin-left: 72px;
+			position: absolute;
+			margin-top: -14px;
+			width: 17px;
+		}
+		.Head2picture3{
+			margin-left: 963px;
+			margin-top: 6px;
+			width: 22px;
+			position: absolute;
+		}
+		.Head2Font3{
+			margin-left: 988px;
+			position: absolute;
+			margin-top: 8px;
+			color: black
+		}
+		.linkStyle2{
+			color: black
+		}
+		.linkStyle2:hover{
+			color: #6193d7
+		}
+		.Head2Dome5{
+			margin-left: -190px;
+		}
+		.Head2picture4{
+			margin-left: 132px;
+		}
+		.Head2Dome6{
+			margin-left: 9px;
+		}
+		.Head2Dome7{
+			margin-left: 2px;
+		}
+		.Head2Dome8{
+			margin-left: -381px;
+		}
+		.Head2picture5{
+			margin-left: 324px;
+		}
+		.Head2Dome9{
+			margin-left: -445px;
+		}
+		.Head2picture6{
+			margin-left: 387px;
+		}
+		.Head2Dome10{
+			margin-left: -528px;
+		}
+		.Head2picture7{
+			margin-left: 467px;
+		}
+		.Head2Dome11{
+			margin-left: -592px;
+		}
+		.Head2picture8{
+			margin-left: 534px;
+		}
+		.Head2Dome12{
+			margin-left: -656px;
+		}
+		.Head2picture9{
+			margin-left: 598px;
+		}
+		.Head2Dome13{
+		   margin-left: -781px;
+		}
+		.Head2picture10{
+			margin-left: 715px;
+		}
+		.Head2Dome13{
+			margin-left: -781px;
+		}
+		.Head2picture11{
+				margin-left: 795px;
+		}
+		.Head2picture12{
+				position: absolute;
+			width: 18px;
+			margin-left: 966px;
+			margin-top: 10px;
+		}
+		.Head2Dome14{
+			margin-left: -1071px;
+		}
+		.Head2picture13{
+		   margin-left: 1018px;
+		}
+		.Head2Dome15{
+			margin-left: -860px;
+		}
+		
+		/* 左部 */
+		#left{
+			float:left;
+			margin-left:400px;
+			margin-top:100px;
+		}
+		/* 左上表格 */
+		#box{
+			width:360px;
+			height:400px;
+			border:#3983E5 6px solid;
+			border-radius:3%;
+		}
+		
+		#boxt{
+			background-color:#3883E5;
+			width:360px;
+			height:36px;
+		}
+		
+		#boxt_1{
+			color:white;
+			font-size:20px;
+		}
+		
+		#boxmiddle{
+			width:360px;
+			height:370px;
+			border:#3983E5 2px solid;
+			border-radius:3%;
+			position:absolute;
+			margin-top:-4px;
+			margin-left:-2px;
+		}
+		
+		#boxmiddlet{
+			width:360px;
+			height:40px;
+			margin-top:6px;
+			background-color:#F5F5F5;
+		}
+		
+		#boxmiddlet_1{
+			position:absolute;
+			margin-top:10px;
+			margin-left:5px;
+		}
+		
+		#boxmiddlet_2{
+			position:absolute;
+			margin-top:6px;
+			margin-left:20px;
+			font-size:15px;
+			color:#333;
+		}
+		
+		#boxmiddlet_3{
+			position:absolute;
+			margin-top:10px;
+			margin-left:80px;
+		}
+		
+		#boxmiddlet_4{
+			position:absolute;
+			margin-top:6px;
+			margin-left:95px;
+			font-size:15px;
+			color:#333;
+		}
+		
+		#boxtext_1{
+			color:#555;
+			font-size:15px;
+		}
+		
+		#boxinput_1{
+			width:130px;
+			height:20px;
+		}
+		
+		#boxtext_2{
+			color:#555;
+			font-size:15px;
+		}
+		
+		#boxtext_2:hover{
+			color:#06C;
+		}
+		
+		#boxtext_3{
+			color:#555;
+			font-size:15px;
+		}
+		
+		#boxinput_2{
+			width:230px;
+			height:20px;
+		}
+		
+		#boxtext_4{
+			color:#555;
+			font-size:15px;
+		}
+		
+		#boxinput_3{
+			width:230px;
+			height:20px;
+		}
+		
+		#boxtext_5{
+			color:#555;
+			font-size:15px;
+		}
+		
+		#boxinput_4{
+			width:60px;
+			height:25px;
+		}
+		
+		#boxtext_6{
+			color:#555;
+			font-size:15px;
+		}
+		
+		#boxinput_5{
+			height:25px;
+			width:100px;
+		}
+		
+		#boxtext_7{
+			color:#555;
+			font-size:15px;
+		}
+		
+		#boxinput_6{
+			height:25px;
+			width:238px;
+		}
+		
+		#boxtext_8{
+			color:#555;
+			font-size:15px;
+		}
+		
+		#boxinput_7{
+			height:25px;
+			width:231px;
+		}
+		
+		#boxtext_9{
+			color:white;
+			font-size:18px;
+		}
+		
+		#boxinput_8{
+			height:28px;
+			width:235px;
+			background-color:#FFB000;
+			border:#FFB000 1px solid;
+			margin-left:84px;
+			border-radius:5%;
+		}
+		
+		#boxinput_8:hover{
+			background-color:#CF7000;
+		}
+		
+		/* 左部图片 */
+		#imagebig{
+			margin-top:25px;
+			width:380px;
+		}
+		
+		#imagebig_1{
+			border:#E5E5E5 1px solid;
+			border-radius:3%;
+			width:375px;
+			height:225px;
+		}
+		
+		#imagebig_2{
+			margin-top:20px;
+			border:#E5E5E5 1px solid;
+			border-radius:3%;
+			width:375px;
+			height:225px;
+		}
+		
+		#imagebig_3{
+			margin-top:20px;
+			width:375px;
+			height:225px;
+		}
+		
+		#imagebig_4{
+			margin-top:20px;
+			border-radius:3%;
+			width:375px;
+			height:225px;
+		}
+		
+		#imagebig_5{
+			margin-top:20px;
+			border-radius:3%;
+		}
+		
+		#imagebig_6{
+			margin-top:20px;
+			border:#E5E5E5 1px solid;
+			border-radius:3%;
+			width:375px;
+			height:225px;
+			background-color:#f2f2f2;
+		}
+		
+		#imagebig_6_1{
+			color:#333333;
+			font-size:18px;
+		}
+		
+		#imagebig_6_2{
+			width:350px;
+			border:#d4d4d4 1px solid;
+		}
+		
+		#imagebig_6_3{
+			float:left;
+			margin-left:15px;
+		}
+		
+		#imagebig_6_4{
+			border-radius:5%;
+		}
+		
+		#imagebig_6_5{
+			position:absolute;
+			margin-top:-90px;
+			padding-left:150px;
+			font-size:18px;
+			font-family:'microsoft yahei', simsun, sans-serif;
+		}
+		
+		#imagebig_6_6{
+			position:absolute;
+			margin-top:38px;
+			padding-left:13px;
+			font-size:12px;
+			color:#666;
+		}
+		
+		#imagebig_6_7{
+			position:absolute;
+			margin-top:75px;
+			padding-left:13px;
+			font-size:12px;
+			color:#B2B2B2;
+		}
+		
+		#imagebig_6_8{
+			background-color:#fff;
+			position:absolute;
+			margin-top:105px;
+			margin-left:15px;
+			border:#88b6e3 1px solid;
+			border-radius: 3px;
+			width:340px;
+			height:40px;
+		}
+		
+		#imagebig_6_9{
+			position:absolute;
+			margin-top:6px;
+			margin-left:90px;
+			font-size:18px;
+			color:#06C;
+		}
+		
+		#imagebig_6_10{
+			position:absolute;
+			margin-top:8px;
+			margin-left:230px;
+		}
+		
+		/* 右上图片轮播 */
+		#carousel{
+			float:left;
+			margin-left:15px;
+			margin-top:100px;
+		}
+		
+		/* 城市地标周边酒店 */
+		/* 上部文字部分 */
+		#landmark{
+			float:left;
+			margin-left:15px;
+			width:780px;
+		}
+		
+		#landmark_1_1{
+			font-size:22px;
+			font-weight:500;
+		}
+		
+		#landmark_1_2{
+			font-size:14px;
+			color:#333;
+		}
+		
+		#landmark_1_2:hover{
+			background-color:#06C;
+			color:#fff;
+		}
+		
+		#landmark_1_3{
+			font-size:14px;
+			color:#06C;
+			position:absolute;
+			margin-left:275px;
+			margin-top:10px;
+		}
+		
+		#landmark_1_3:hover{
+			text-decoration:underline;
+		}
+		
+		/* 下部图片部分 */
+		#landmarkimage{
+			position:absolute;
+			margin-top:-12px;
+			width:780px;
+			height:100px;
+			border-top:#5599dd 2px solid;
+			border-bottom:#d0d0d0 1px solid;
+			border-left:#d0d0d0 1px solid;
+			border-right:#d0d0d0 1px solid;
+		}
+		
+		 #landmarkimage_1{
+			 float:left;
+			 border-right:#F2F2F2 1px solid;
+		 }
+		 
+		 #landmarkimage_2{
+			 float:left;
+			 width:90px;
+			 height:100px;
+		 }
+		 
+		 #landmarkimage_2:hover{
+			 background-color:#F2F2F2;
+		 }
+		 
+		 #landmarkimage_2_1{
+			 margin-left:25px;
+			 margin-top:15px;
+		 }
+		 
+		 #landmarkimage_2_2{
+			 color:#666666;
+			 font-size:12px;
+			 padding:70px 25px 0px;
+		 }
+		 
+		 #landmarkimage_2_2:hover{
+			 color:#06C;
+		 }
+		 
+		 #landmarkimage_3{
+			 float:left;
+			 width:90px;
+			 height:100px;
+		 }
+		 
+		 #landmarkimage_3:hover{
+			 background-color:#F2F2F2;
+		 }
+		 
+		 #landmarkimage_3_1{
+			 margin-left:25px;
+			 margin-top:15px;
+		 }
+		 
+		 #landmarkimage_3_2{
+			 color:#666666;
+			 font-size:12px;
+			 padding:70px 32px 0px;
+		 }
+		 
+		 #landmarkimage_3_2:hover{
+			 color:#06C;
+		 }
+		 
+		 #landmarkimage_4{
+			 float:left;
+			 width:90px;
+			 height:100px;
+		 }
+		 
+		 #landmarkimage_4:hover{
+			 background-color:#F2F2F2;
+		 }
+		 
+		 #landmarkimage_4_1{
+			 margin-left:25px;
+			 margin-top:15px;
+		 }
+		 
+		 #landmarkimage_4_2{
+			 color:#666666;
+			 font-size:12px;
+			 padding:70px 25px 0px;
+		 }
+		 
+		 #landmarkimage_4_2:hover{
+			 color:#06C;
+		 }
+		 
+		 #landmarkimage_5{
+			 float:left;
+			 width:90px;
+			 height:100px;
+		 }
+		 
+		 #landmarkimage_5:hover{
+			 background-color:#F2F2F2;
+		 }
+		 
+		 #landmarkimage_5_1{
+			 margin-left:25px;
+			 margin-top:15px;
+		 }
+		 
+		 #landmarkimage_5_2{
+			 color:#666666;
+			 font-size:12px;
+			 padding:70px 25px 0px;
+		 }
+		 
+		 #landmarkimage_5_2:hover{
+			 color:#06C;
+		 }
+		 
+		 #landmarkimage_6{
+			 float:left;
+			 width:90px;
+			 height:100px;
+		 }
+		 
+		 #landmarkimage_6:hover{
+			 background-color:#F2F2F2;
+		 }
+		 
+		 #landmarkimage_6_1{
+			 margin-left:25px;
+			 margin-top:15px;
+		 }
+		 
+		 #landmarkimage_6_2{
+			 color:#666666;
+			 font-size:12px;
+			 padding:70px 10px 0px;
+		 }
+		 
+		 #landmarkimage_6_2:hover{
+			 color:#06C;
+		 }
+		 
+		 #landmarkimage_7{
+			 float:left;
+			 width:90px;
+			 height:100px;
+		 }
+		 
+		 #landmarkimage_7:hover{
+			 background-color:#F2F2F2;
+		 }
+		 
+		 #landmarkimage_7_1{
+			 margin-left:25px;
+			 margin-top:15px;
+		 }
+		 
+		 #landmarkimage_7_2{
+			 color:#666666;
+			 font-size:12px;
+			 padding:70px 32px 0px;
+		 }
+		 
+		 #landmarkimage_7_2:hover{
+			 color:#06C;
+		 }
+		 
+		 #landmarkimage_8{
+			 float:left;
+			 width:90px;
+			 height:100px;
+		 }
+		 
+		 #landmarkimage_8:hover{
+			 background-color:#F2F2F2;
+		 }
+		 
+		 #landmarkimage_8_1{
+			 margin-left:25px;
+			 margin-top:15px;
+		 }
+		 
+		 #landmarkimage_8_2{
+			 color:#666666;
+			 font-size:12px;
+			 padding:70px 32px 0px;
+		 }
+		 
+		 #landmarkimage_8_2:hover{
+			 color:#06C;
+		 }
+		 
+		 #landmarkimage_9{
+			float:left;
+			width:72px;
+			height:100px;
+			border-left:#d0d0d0 1px solid;
+		 }
+		 
+		 #landmarkimage_9_1{
+			 margin-left:25px;
+			 margin-top:30px;
+		 }
+		 
+		 #landmarkimage_9_2{
+			 font-size:14px;
+			 color:#333;
+			 padding:70px 8px 0px;
+		 }
+		 
+		 #landmarkimage_9_2:hover{
+			 color:#06C;
+		 }
+		 
+		/* 中部图片轮播 */
+		#imagecenter1{
+			float:left;
+			position:absolute;
+			margin-left:795px;
+			margin-top:510px;
+		}
+		
+		#imagecentertext{
+			position:absolute;
+			margin-left:1445px;
+			margin-top:510px;
+			width:130px;
+			height:180px;
+		}
+		
+		#imagecentertext1{
+			border-bottom:#fff 1px solid;
+		}
+		
+		#imagecentertext1:hover{
+			background-color:#2577e3;
+		}
+		
+		#imagecentertext2{
+			border-bottom:#FFFFFF 1px solid;
+		}
+
+		#imagecentertext2:hover{
+			background-color:#2577e3;
+		}
+
+		#imagecentertext3{
+			border-bottom:#FFFFFF 1px solid;
+		}
+		
+		#imagecentertext3:hover{
+			background-color:#2577e3;
+		}
+		
+		#imagecentertext4{
+			border-bottom:#FFFFFF 1px solid;
+		}
+		
+		#imagecentertext4:hover{
+			background-color:#2577e3;
+		}
+		
+		#imagecentertext5{
+		}
+		
+		#imagecentertext5:hover{
+			background-color:#2577e3;
+		}
+		
+		#imagetext_td{
+			color:#FFFFFF;
+			font-size:12px;
+		}
+		
+		/* 中部热门酒店 */
+		#jiudian{
+			float:left;
+			position:absolute;
+			margin-top:720px;
+			margin-left:800px;
+		}
+		
+		#jiudiantext_1{
+			color:#5599DD;
+			font-size:28px;
+		}
+		
+		#jiudiantext_2{
+			color:#333;
+			font-size:13px;
+		}
+		
+		#jiudiantext_2:hover{
+			color:#fff;
+			background-color:#06C;
+		}
+		
+		#jiudiantext_3{
+			color:#333;
+			font-size:13px;
+		}
+		
+		#jiudiantext_3:hover{
+			color:#fff;
+			background-color:#06C;
+		}
+		
+		#jiudiantext_4{
+			color:#333;
+			font-size:13px;
+		}
+		
+		#jiudiantext_4:hover{
+			color:#fff;
+			background-color:#06C;
+		}
+		
+		#jiudiantext_5{
+			color:#333;
+			font-size:13px;
+		}
+		
+		#jiudiantext_5:hover{
+			color:#fff;
+			background-color:#06C;
+		}
+		
+		#jiudiantext_6{
+			color:#333;
+			font-size:13px;
+		}
+		
+		#jiudiantext_6:hover{
+			color:#fff;
+			background-color:#06C;
+		}
+		
+		#jiudiantext_7{
+			color:#333;
+			font-size:13px;
+		}
+		
+		#jiudiantext_7:hover{
+			color:#fff;
+			background-color:#06C;
+		}
+		
+		#jiudiantext_8{
+			color:#333;
+			font-size:13px;
+		}
+		
+		#jiudiantext_8:hover{
+			color:#fff;
+			background-color:#06C;
+		}
+		
+		#jiudiantext_9{
+			color:#333;
+			font-size:13px;
+		}
+		
+		#jiudiantext_9:hover{
+			color:#fff;
+			background-color:#06C;
+		}
+		.nb{
+			width: 65px;
+			margin-left: 450px;
+			margin-top: -39px;
+			position: absolute;
+			height: 23px;
+		}
+		.nimlj{
+			margin-left: -20px;
+			margin-top: 3px;
+			position: absolute;
+		}
+		
+		.nb:hover .nimlj{
+			display:none;
+		}
+		
+		
+		#jiudiantext_9_1{
+			position:absolute;
+			margin-top:15px;
+			margin-left:-12px;
+		}
+		
+		#jiudianimage{
+			position:absolute;
+			margin-left:580px;
+			margin-top:-59px;
+		}
+		
+		#jiudianhr{
+			border:#5599DD 2px solid;
+			width:775px;
+			position:absolute;
+			margin-top:-14px;
+		}
+		 
+		/* 酒店下部 */
+		#jiudianbottom{
+			float:left;
+			position:absolute;
+			margin-left:800px;
+			margin-top:800px;
+		}		
+
+		/* 上海三湘大厦 */
+		#jiudianbottom_1{
+			height:155px;
+			width:780px;
+		}
+		
+		#jiudianbottom_1_image{
+			border-radius:3%;
+			margin-top:10px;
+		}
+		
+		#jiudianbottom_1:hover{
+			background-color:#E8F4FF;
+		}
+		
+		#jiudianbottom_1_text_1{
+			position:absolute;
+			margin-left:5px;
+			margin-top:10px;
+			color:#06C;
+			font-size:16px;
+		}
+		
+		#jiudianbottom_1_text_2{
+			color:#333;
+			font-size:12px;
+			text-decoration:underline;
+			position:absolute;
+			margin-left:5px;
+			margin-top:40px;
+		}
+		
+		#jiudianbottom_1_text_3{
+			color:#333;
+			font-size:12px;
+			text-decoration:underline;
+			position:absolute;
+			margin-left:65px;
+			margin-top:40px;
+		}
+		
+		#jiudianbottom_1_text_4{
+			color:#333;
+			font-size:12px;
+			position:absolute;
+			margin-left:5px;
+			margin-top:60px;
+		}
+		
+		#jiudianbottom_1_text_5{
+			font-size:12px;
+			color:#999;
+			position:absolute;
+			margin-left:5px;
+			margin-top:90px;
+		}
+		
+		#jiudianbottom_1_text_7{
+			font-size:13px;
+			color:#333;
+			position:absolute;
+			margin-left:585px;
+			margin-top:18px;
+		}
+		
+		#jiudianbottom_1_text_8{
+			font-size:22px;
+			color:#F60;
+			position:absolute;
+			margin-left:596px;
+			margin-top:15px;
+		}
+		
+		#jiudianbottom_1_text_9{
+			font-size:12px;
+			color:#F60;
+			position:absolute;
+			margin-left:637px;
+			margin-top:25px;
+		}
+		
+		#jiudianbottom_1_text_4:hover{
+			text-decoration:underline;
+		}
+		
+		#jiudianbottom_1_text:hover{
+			text-decoration:underline;
+		}
+		
+		#jiudianhr_1{
+			border:#ccc 1px dashed;
+			margin-top:-2px;
+		}
+		
+		/* 上海南泉大酒店 */
+		#jiudianbottom_2{
+			height:155px;
+			width:780px;
+			margin-top:-8px;
+		}
+		
+		#jiudianbottom_2_image{
+			border-radius:3%;
+			margin-top:10px;
+		}
+		
+		#jiudianbottom_2:hover{
+			background-color:#E8F4FF;
+		}
+		
+		#jiudianbottom_2_text_1{
+			position:absolute;
+			margin-left:5px;
+			margin-top:10px;
+			color:#06C;
+			font-size:16px;
+		}
+		
+		#jiudianbottom_2_text_2{
+			color:#333;
+			font-size:12px;
+			text-decoration:underline;
+			position:absolute;
+			margin-left:5px;
+			margin-top:40px;
+		}
+		
+		#jiudianbottom_2_text_3{
+			color:#333;
+			font-size:12px;
+			text-decoration:underline;
+			position:absolute;
+			margin-left:140px;
+			margin-top:40px;
+		}
+		
+		#jiudianbottom_2_text_4{
+			color:#333;
+			font-size:12px;
+			position:absolute;
+			margin-left:5px;
+			margin-top:60px;
+		}
+		
+		#jiudianbottom_2_text_5{
+			font-size:12px;
+			color:#999;
+			position:absolute;
+			margin-left:5px;
+			margin-top:90px;
+		}
+		
+		#jiudianbottom_2_text_10{
+			font-size:12px;
+			color:#999;
+			position:absolute;
+			margin-left:15px;
+			margin-top:108px;
+		}
+		
+		#jiudianbottom_2_text_7{
+			font-size:13px;
+			color:#333;
+			position:absolute;
+			margin-left:585px;
+			margin-top:18px;
+		}
+		
+		#jiudianbottom_2_text_8{
+			font-size:22px;
+			color:#F60;
+			position:absolute;
+			margin-left:596px;
+			margin-top:15px;
+		}
+		
+		#jiudianbottom_2_text_9{
+			font-size:12px;
+			color:#F60;
+			position:absolute;
+			margin-left:637px;
+			margin-top:25px;
+		}
+		
+		#jiudianbottom_2_text_4:hover{
+			text-decoration:underline;
+		}
+		
+		#jiudianbottom_2_text:hover{
+			text-decoration:underline;
+		}
+		
+		#jiudianhr_2{
+			border:#ccc 1px dashed;
+			margin-top:-2px;
+		}
+		
+		/* 上海延安饭店 */
+		#jiudianbottom_3{
+			height:155px;
+			width:780px;
+			margin-top:-8px;
+		}
+		
+		#jiudianbottom_3_image{
+			border-radius:3%;
+			margin-top:10px;
+		}
+		
+		#jiudianbottom_3:hover{
+			background-color:#E8F4FF;
+		}
+		
+		#jiudianbottom_3_text_1{
+			position:absolute;
+			margin-left:5px;
+			margin-top:10px;
+			color:#06C;
+			font-size:16px;
+		}
+		
+		#jiudianbottom_3_text_2{
+			color:#333;
+			font-size:12px;
+			text-decoration:underline;
+			position:absolute;
+			margin-left:5px;
+			margin-top:40px;
+		}
+		
+		#jiudianbottom_3_text_3{
+			color:#333;
+			font-size:12px;
+			text-decoration:underline;
+			position:absolute;
+			margin-left:105px;
+			margin-top:40px;
+		}
+		
+		#jiudianbottom_3_text_4{
+			color:#333;
+			font-size:12px;
+			position:absolute;
+			margin-left:5px;
+			margin-top:60px;
+		}
+		
+		#jiudianbottom_3_text_5{
+			font-size:12px;
+			color:#999;
+			position:absolute;
+			margin-left:5px;
+			margin-top:90px;
+		}
+		
+		#jiudianbottom_3_text_7{
+			font-size:13px;
+			color:#333;
+			position:absolute;
+			margin-left:585px;
+			margin-top:18px;
+		}
+		
+		#jiudianbottom_3_text_8{
+			font-size:22px;
+			color:#F60;
+			position:absolute;
+			margin-left:596px;
+			margin-top:15px;
+		}
+		
+		#jiudianbottom_3_text_9{
+			font-size:12px;
+			color:#F60;
+			position:absolute;
+			margin-left:637px;
+			margin-top:25px;
+		}
+		
+		#jiudianbottom_3_text_4:hover{
+			text-decoration:underline;
+		}
+		
+		#jiudianbottom_3_text:hover{
+			text-decoration:underline;
+		}
+		
+		#jiudianhr_3{
+			border:#ccc 1px dashed;
+			margin-top:-2px;
+		}
+		
+		/* 上海如果遇见你小墅 */
+		#jiudianbottom_4{
+			height:155px;
+			width:780px;
+			margin-top:-8px;
+		}
+		
+		#jiudianbottom_4_image{
+			border-radius:3%;
+			margin-top:10px;
+		}
+		
+		#jiudianbottom_4:hover{
+			background-color:#E8F4FF;
+		}
+		
+		#jiudianbottom_4_text_1{
+			position:absolute;
+			margin-left:5px;
+			margin-top:10px;
+			color:#06C;
+			font-size:16px;
+		}
+		
+		#jiudianbottom_4_text_2{
+			color:#333;
+			font-size:12px;
+			text-decoration:underline;
+			position:absolute;
+			margin-left:5px;
+			margin-top:40px;
+		}
+		
+		#jiudianbottom_4_text_3{
+			color:#333;
+			font-size:12px;
+			text-decoration:underline;
+			position:absolute;
+			margin-left:110px;
+			margin-top:40px;
+		}
+		
+		#jiudianbottom_4_text_4{
+			color:#333;
+			font-size:12px;
+			position:absolute;
+			margin-left:5px;
+			margin-top:60px;
+		}
+		
+		#jiudianbottom_4_text_5{
+			font-size:12px;
+			color:#999;
+			position:absolute;
+			margin-left:5px;
+			margin-top:90px;
+		}
+		
+		#jiudianbottom_4_text_10{
+			font-size:12px;
+			color:#999;
+			position:absolute;
+			margin-left:15px;
+			margin-top:108px;
+		}
+		
+		#jiudianbottom_4_text_7{
+			font-size:13px;
+			color:#333;
+			position:absolute;
+			margin-left:585px;
+			margin-top:18px;
+		}
+		
+		#jiudianbottom_4_text_8{
+			font-size:22px;
+			color:#F60;
+			position:absolute;
+			margin-left:596px;
+			margin-top:15px;
+		}
+		
+		#jiudianbottom_4_text_9{
+			font-size:12px;
+			color:#F60;
+			position:absolute;
+			margin-left:637px;
+			margin-top:25px;
+		}
+		
+		#jiudianbottom_4_text_4:hover{
+			text-decoration:underline;
+		}
+		
+		#jiudianbottom_4_text:hover{
+			text-decoration:underline;
+		}
+		
+		#jiudianhr_4{
+			border:#ccc 1px dashed;
+			margin-top:-2px;
+		}
+		
+		/* 云和夜泊酒店 */
+		#jiudianbottom_5{
+			height:155px;
+			width:780px;
+			margin-top:-8px;
+		}
+		
+		#jiudianbottom_5_image{
+			border-radius:3%;
+			margin-top:10px;
+		}
+		
+		#jiudianbottom_5:hover{
+			background-color:#E8F4FF;
+		}
+		
+		#jiudianbottom_5_text_1{
+			position:absolute;
+			margin-left:5px;
+			margin-top:10px;
+			color:#06C;
+			font-size:16px;
+		}
+		
+		#jiudianbottom_5_text_2{
+			color:#333;
+			font-size:12px;
+			text-decoration:underline;
+			position:absolute;
+			margin-left:5px;
+			margin-top:40px;
+		}
+		
+		#jiudianbottom_5_text_3{
+			color:#333;
+			font-size:12px;
+			text-decoration:underline;
+			position:absolute;
+			margin-left:110px;
+			margin-top:40px;
+		}
+		
+		#jiudianbottom_5_text_4{
+			color:#333;
+			font-size:12px;
+			position:absolute;
+			margin-left:5px;
+			margin-top:60px;
+		}
+		
+		#jiudianbottom_5_text_5{
+			font-size:12px;
+			color:#999;
+			position:absolute;
+			margin-left:5px;
+			margin-top:90px;
+		}
+		
+		#jiudianbottom_5_text_10{
+			font-size:12px;
+			color:#999;
+			position:absolute;
+			margin-left:15px;
+			margin-top:108px;
+		}
+		
+		#jiudianbottom_5_text_7{
+			font-size:13px;
+			color:#333;
+			position:absolute;
+			margin-left:585px;
+			margin-top:18px;
+		}
+		
+		#jiudianbottom_5_text_8{
+			font-size:22px;
+			color:#F60;
+			position:absolute;
+			margin-left:596px;
+			margin-top:15px;
+		}
+		
+		#jiudianbottom_5_text_9{
+			font-size:12px;
+			color:#F60;
+			position:absolute;
+			margin-left:637px;
+			margin-top:25px;
+		}
+		
+		#jiudianbottom_5_text_4:hover{
+			text-decoration:underline;
+		}
+		
+		#jiudianbottom_5_text:hover{
+			text-decoration:underline;
+		}
+		
+		#jiudianhr_5{
+			border:#ccc 1px dashed;
+			margin-top:-2px;
+		}
+		
+		/* 上海浦东丽思卡尔顿酒店 */
+		#jiudianbottom_6{
+			height:155px;
+			width:780px;
+			margin-top:-8px;
+		}
+		
+		#jiudianbottom_6_image{
+			border-radius:3%;
+			margin-top:10px;
+		}
+		
+		#jiudianbottom_6:hover{
+			background-color:#E8F4FF;
+		}
+		
+		#jiudianbottom_6_text_1{
+			position:absolute;
+			margin-left:5px;
+			margin-top:10px;
+			color:#06C;
+			font-size:16px;
+		}
+		
+		#jiudianbottom_6_text_2{
+			color:#333;
+			font-size:12px;
+			text-decoration:underline;
+			position:absolute;
+			margin-left:5px;
+			margin-top:40px;
+		}
+		
+		#jiudianbottom_6_text_3{
+			color:#333;
+			font-size:12px;
+			text-decoration:underline;
+			position:absolute;
+			margin-left:135px;
+			margin-top:40px;
+		}
+		
+		#jiudianbottom_6_text_4{
+			color:#333;
+			font-size:12px;
+			position:absolute;
+			margin-left:5px;
+			margin-top:60px;
+		}
+		
+		#jiudianbottom_6_text_5{
+			font-size:12px;
+			color:#999;
+			position:absolute;
+			margin-left:5px;
+			margin-top:90px;
+		}
+		
+		#jiudianbottom_6_text_7{
+			font-size:13px;
+			color:#333;
+			position:absolute;
+			margin-left:573px;
+			margin-top:18px;
+		}
+		
+		#jiudianbottom_6_text_8{
+			font-size:22px;
+			color:#F60;
+			position:absolute;
+			margin-left:583px;
+			margin-top:15px;
+		}
+		
+		#jiudianbottom_6_text_9{
+			font-size:12px;
+			color:#F60;
+			position:absolute;
+			margin-left:637px;
+			margin-top:25px;
+		}
+		
+		#jiudianbottom_6_text_4:hover{
+			text-decoration:underline;
+		}
+		
+		#jiudianbottom_6_text:hover{
+			text-decoration:underline;
+		}
+
+		
+		/* 下部长图 */
+		#imagebiglong{
+			float:left;
+			margin-left:400px;
+			margin-top:10px;
+			width:1200px;
+			height:190px;
+		}
+		
+		#imagelongtext{
+			color:#333333;
+			font-size:18px;
+		}
+		
+		#imagelong1{
+			float:left;
+		}
+		
+		#imagelong2{
+			float:left;
+			margin-left:20px;
+		}
+		
+		#imagelong3{
+			float:left;
+			margin-left:20px;
+		}
+		
+		#imagelong4{
+			float:left;
+			margin-top:20px;
+		}
+		
+		#bigtext{
+			float:left;
+			margin-left:400px;
+			margin-top:40px;
+			width:1175px;
+			border:#ccc 2px solid;
+		}
+		
+		#bigtexthr{
+			width:1140px;
+			border:#ccc 1px dashed;
+			margin-left:15px;
+		}
+		
+		#bigtext1{
+			font-size:12px;
+			color:#666;
+		}
+		
+		#bigtext2{
+			font-size:12px;
+			color:#999999;
+		}
+		
+		#bigtext3{
+			font-size:12px;
+			color:#999999;
+		}
+		
+		#bigtext3_1{
+			font-size:12px;
+			color:#999999;
+		}
+		
+		#bigtext3_1:hover{
+			text-decoration:underline;
+		}
+		
+		#bigtext4{
+			font-size:12px;
+		}
+		
+		#bigtext4_1{
+			color:#666;
+		}
+		
+		#bigtext4_2{
+			color:#999999;
+		}
+		
+		#bigtext4_2:hover{
+			text-decoration:underline;
+		}
+		
+		#bigtext5{
+			font-size:12px;
+		}
+		
+		#bigtext5_1{
+			color:#666;
+		}
+		
+		#bigtext5_2{
+			color:#999999;
+		}
+		
+		#bigtext5_2:hover{
+			text-decoration:underline;
+		}
+		
+		#bigtext6{
+			font-size:12px;
+		}
+		
+		#bigtext6_1{
+			color:#666;
+		}
+		
+		#bigtext6_2{
+			color:#999999;
+		}
+		
+		#bigtext6_2:hover{
+			text-decoration:underline;
+		}
+		
+		#bigtext7{
+			font-size:12px;
+		}
+		
+		#bigtext7_1{
+			color:#666;
+		}
+		
+		#bigtext7_2{
+			color:#999999;
+		}
+		
+		#bigtext7_2:hover{
+			text-decoration:underline;
+		}
+		
+		#bigtext8{
+			font-size:12px;
+		}
+		
+		#bigtext8_1{
+			color:#666;
+		}
+		
+		#bigtext8_2{
+			color:#999999;
+		}
+		
+		#bigtext8_2:hover{
+			text-decoration:underline;
+		}
+		
+		/* 最底部 */
+		#base{
+			float:left;
+			margin-top:30px;
+		}
+				
+		#basetext{
+			font-size:12px;
+			color:#4C4C4C;
+		}
+				
+		#basetext:hover{
+			text-decoration:underline;
+		}
+				
+		#base_1{
+			margin-left:530px;
+		}
+				
+		#base_2{
+			margin-left:690px;
+		}
+				
+		#base_3{
+			margin-left:705px;
+		}
+				
+		#base_4{
+			margin-left:900px;
+		}
+				
+		#base_5{
+			margin-left:685px;
+			margin-top:20px;
+		}
+				
+		#base_5_1{
+			border:#d1d1d1 1px solid;
+			margin-left:5px;
+		}
+				
+		#base_6{
+			margin-left:800px;
+			margin-top:20px;
+		}
+				
+		#base_6_1{
+			margin-left:5px;
+			border:#d1d1d1 1px solid;
+		}

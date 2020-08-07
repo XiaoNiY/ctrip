@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script type="text/javascript">
+        var tit = document.getElementById('tit');
+        var lis1 = tit.getElementsByTagName('li');
+        // alert(lis1.length);//3
+        var con = document.getElementById("con");
+        var lis2 = con.getElementsByTagName("li");
+        for (var i = 0; i < lis1.length; i++) {
+            //第一个for循环是给每个标题添加点击事件
+            lis1[i].onclick = function() {
+                for (var i = 0; i < lis1.length; i++) {
+                    //遍历每个标题找出当前点击得标题
+                    lis1[i].className = "";
+                    lis2[i].className = "";
+                    if (lis1[i] == this) { //this指向当前点击得标题
+                        lis1[i].className = "select";
+                        lis2[i].className = "show";
+                    };
+                };
+            }
+        };
+    </script>
+    <style>
+        #box {
+            width: 450px;
+            margin: 50px auto;
+        }
+        
+        #tit {
+            overflow: hidden;
+        }
+        
+        #tit li {
+            float: left;
+            width: 148px;
+            border: 1px solid #999;
+            text-align: center;
+            height: 30px;
+            line-height: 30px;
+            color: green;
+        }
+        
+        #con li {
+            height: 300px;
+            text-align: center;
+            line-height: 300px;
+            border: 1px solid #999;
+            color: green;
+            display: none;
+            font-size: 30px;
+        }
+        
+        #tit .select {
+            background: green;
+            color: #fff;
+        }
+        
+        #con .show {
+            display: block;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="box">
+        <ul id="tit">
+            <li class="select">标题一</li>
+            <li>标题二</li>
+            <li>标题三</li>
+        </ul>
+        <ol id="con">
+            <li class="show">内容一</li>
+            <li>内容二</li>
+            <li>内容三</li>
+        </ol>
+    </div>
+</body>
+
+</html>

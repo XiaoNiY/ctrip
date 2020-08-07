@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<script type="text/javascript">
+	window.onload = function() {
+		for (var a = 1; a <= GetRequest2("index"); a++) {
+			alert(GetRequest2("start" + a) + GetRequest2("end" + a) + GetRequest2("time" + a)  + GetRequest2("price" + a) );
+		}
+		//alert(GetRequest2("start") + GetRequest2("end") + GetRequest2("time")  + GetRequest2("price") );
+	}
+
+	function GetRequest2(key){
+	    var url = location.search;
+	    var theRequest = new Object();
+	    if (url.indexOf("?") != -1){
+	        var str = url.substr(1);
+	        strs = str.split("&");
+	        for (var i = 0; i < strs.length; i++){
+	            theRequest[strs[i].split("=")[0]] = unescape(strs[i].split("=")[1]);
+	        }
+	    }
+	    var value = theRequest[key];
+	    return value; 
+	}
+</script>
+<body>
+
+</body>
+</html>
